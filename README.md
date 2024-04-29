@@ -1,10 +1,6 @@
 # CineInsights-Exploring-Movie-Trends
 CineInsights: Dive into movie trends! Analyze directorial success, actor popularity, genre trends &amp; social media impact. Uncover cinematic dynamics!
 
-# CineInsights
-
-Explore the fascinating world of cinema with CineInsights! This project delves into the depths of a comprehensive movie dataset, analyzing various aspects of filmmaking such as directorial success, actor popularity, genre trends, and the impact of social media on movie popularity.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
